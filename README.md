@@ -2,7 +2,7 @@
 
 ![README2PDF Banner](https://via.placeholder.com/800x200/4f46e5/ffffff?text=README2PDF+-+Markdown+to+PDF+Converter)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://gilded-froyo-172775.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://readmetopdf.snapstay.in/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/imankii01/readme2pdf)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -22,7 +22,7 @@
 
 ## 🌟 Live Demo
 
-Try it now: **[README2PDF.netlify.app](https://gilded-froyo-172775.netlify.app)**
+Try it now: **[README2PDF.netlify.app](https://readmetopdf.snapstay.in/)**
 
 ## 🛠️ Tech Stack
 
