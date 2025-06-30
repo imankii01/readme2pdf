@@ -22,7 +22,7 @@
 
 ## 🌟 Live Demo
 
-Try it now: **[README2PDF.netlify.app](https://readmetopdf.snapstay.in/)**
+Try it now: **[README2PDF](https://readmetopdf.snapstay.in/)**
 
 ## 🛠️ Tech Stack
 
